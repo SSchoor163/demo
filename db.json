@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": 1, "firstname": "Steven", "secondname": "Schoor","email": "Steven_Schoor", "password": "Password" }
+    { "id": 1, "firstname": "Steven", "secondname": "Schoor","email": "Steven_Schoor@yahoo.com", "password": "Password" }
   
   ],
   "profile": [
