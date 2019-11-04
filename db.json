@@ -4,8 +4,7 @@
   
   ],
   "profile": [
-    { "id": 1, "favoritebeer": "budlight", "userId": 1 },
-    { "id":
+    { "id": 1, "favoritebeer": "budlight", "userId": 1 }
   ]
  
 }
